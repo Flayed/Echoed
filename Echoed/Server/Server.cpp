@@ -10,7 +10,7 @@ Simple UDP Server
 
 #define BUFLEN 512  //Max length of buffer
 #define SOCKLEN 64 //Max length of socket name
-#define PORTLEN 5 //Max length of the port
+#define PORTLEN 8 //Max length of the port
 #define DEFAULTPORT 27816 // Default port
 int main()
 {

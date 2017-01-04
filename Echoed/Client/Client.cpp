@@ -10,7 +10,7 @@ Simple udp client
 #pragma comment(lib,"ws2_32.lib") //Winsock Library
 
 #define SERVERLEN 16 // Max length of server IP
-#define PORTLEN 5 // Max length of port
+#define PORTLEN 8 // Max length of port
 #define BUFLEN 512  //Max length of buffer
 #define DEFAULTPORT 27816 //default port
 int main(void)
